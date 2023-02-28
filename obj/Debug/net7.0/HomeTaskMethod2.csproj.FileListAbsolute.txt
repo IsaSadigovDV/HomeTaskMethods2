@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\ConsoleApp1\HomeTaskMethod2\bin\Debug\net7.0\HomeTaskMethod2.exe
+C:\Users\HP\source\repos\ConsoleApp1\HomeTaskMethod2\bin\Debug\net7.0\HomeTaskMethod2.deps.json
+C:\Users\HP\source\repos\ConsoleApp1\HomeTaskMethod2\bin\Debug\net7.0\HomeTaskMethod2.runtimeconfig.json
+C:\Users\HP\source\repos\ConsoleApp1\HomeTaskMethod2\bin\Debug\net7.0\HomeTaskMethod2.dll
+C:\Users\HP\source\repos\ConsoleApp1\HomeTaskMethod2\bin\Debug\net7.0\HomeTaskMethod2.pdb
+C:\Users\HP\source\repos\ConsoleApp1\HomeTaskMethod2\obj\Debug\net7.0\HomeTaskMethod2.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ConsoleApp1\HomeTaskMethod2\obj\Debug\net7.0\HomeTaskMethod2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ConsoleApp1\HomeTaskMethod2\obj\Debug\net7.0\HomeTaskMethod2.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ConsoleApp1\HomeTaskMethod2\obj\Debug\net7.0\HomeTaskMethod2.AssemblyInfo.cs
+C:\Users\HP\source\repos\ConsoleApp1\HomeTaskMethod2\obj\Debug\net7.0\HomeTaskMethod2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConsoleApp1\HomeTaskMethod2\obj\Debug\net7.0\HomeTaskMethod2.dll
+C:\Users\HP\source\repos\ConsoleApp1\HomeTaskMethod2\obj\Debug\net7.0\refint\HomeTaskMethod2.dll
+C:\Users\HP\source\repos\ConsoleApp1\HomeTaskMethod2\obj\Debug\net7.0\HomeTaskMethod2.pdb
+C:\Users\HP\source\repos\ConsoleApp1\HomeTaskMethod2\obj\Debug\net7.0\HomeTaskMethod2.genruntimeconfig.cache
+C:\Users\HP\source\repos\ConsoleApp1\HomeTaskMethod2\obj\Debug\net7.0\ref\HomeTaskMethod2.dll
